@@ -1,6 +1,6 @@
 # mut.js
 
-Minimal Ubiquitous Toolbox - A collection of tiny, useful JavaScript functions & shortcuts.
+(myo͞ot) Minimal Ubiquitous Toolbox - A collection of tiny, useful JavaScript functions & shortcuts.
 
 ``` 
 mut.qs(queryString, el)
