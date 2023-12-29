@@ -100,7 +100,7 @@ class Mut {
    static getParam(key) {
      const url = new URL(document.URL);
      return url.searchParams.get(key);
-   },
+   }
  
    /**
     * Get a description of an element's attribute: value, type, presence, etc.
