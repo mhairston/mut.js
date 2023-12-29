@@ -56,7 +56,7 @@ class Mut {
     */
    static ce(type, contents) {
      const el = document.createElement(type);
-     el.innerHTML = contents;
+     el.innerHTML = contents || '';
      return el;
    }
  
