@@ -115,5 +115,5 @@ class Mut {
      return `.${el.className} ${attr} ${
        attrExists ? "present" : "absent"
      } ${typeof attrVal} ${attrVal}`;
-   };
+   }
 }
